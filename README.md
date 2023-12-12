@@ -1,1 +1,1 @@
-![snake](https://raw.githubusercontent.com/Wsleli/Wsleli/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/Wsleli/Wsleli/master/github-contribution-grid-snake-dark.svg)
